@@ -1,0 +1,14 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "description": "Snake Names",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Benjamin",
+  "license": "ISC",
+  "dependencies": {
+    "snake-names": "^1.0.9"
+  }
+}
